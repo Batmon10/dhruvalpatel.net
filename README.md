@@ -216,11 +216,10 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Contact
 
 Dhruval Patel
-- Email: workfordhruval@gmail.com
-- GitHub: https://github.com/Batmon10
+- Email: dhruval@example.com
+- GitHub: [@yourusername](https://github.com/yourusername)
 
 ---
 
 Made with ❤️ by Dhruval Patel
-
 
